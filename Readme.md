@@ -4,4 +4,7 @@ Adresář pro nahrávání projektů na předmět PPJ. V tomto adresáři budou 
 
 ## Odkazy přímo na kód k úlohám:
 Odkaz na kód první úlohy (VECTOR API – JEP 448):
-[Main.java](https://github.com/cambormiroslav/PPJ_2023_24_cambor/blob/main/task1_features_java/src/Main.java)
+[Main.java](/task1_features_java/src/Main.java)
+
+Odkaz na druhou úlohu (task3_cerva):
+[druhá úloha](/task3_spring_uvod_autowire/)
