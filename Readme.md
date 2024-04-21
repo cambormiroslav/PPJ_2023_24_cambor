@@ -8,3 +8,6 @@ Odkaz na kód první úlohy (VECTOR API – JEP 448):
 
 Odkaz na druhou úlohu (task3_cerva):
 [druhá úloha](/task3_spring_uvod_autowire/)
+
+Odkaz na třetí úlohu (task4_cerva):
+[třetí úloha](/task4_spring_java_configuration/)
