@@ -2,7 +2,7 @@
 
 ## Zadání
 
-Zadání této naleznete v seouboru [zadani.docx](/zadani.docx)
+Zadání této naleznete v seouboru [zadani.pdf](/task3_spring_uvod_autowire/zadani.pdf)
 
 ## Struktura řešení zadání
 
